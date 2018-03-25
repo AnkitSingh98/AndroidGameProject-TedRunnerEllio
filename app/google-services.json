@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "786392181536",
+    "firebase_url": "https://ellio-dc2d0.firebaseio.com",
+    "project_id": "ellio-dc2d0",
+    "storage_bucket": "ellio-dc2d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786392181536:android:0634cbf34688da28",
+        "android_client_info": {
+          "package_name": "com.codemania.simpleandroidgdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786392181536-iiu3ijk2pu61jm93q6kusojqb71pn2ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJNGshkNW_kg4_Nps1hFR5M1qgWbZVUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
